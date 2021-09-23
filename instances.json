@@ -5,6 +5,10 @@
         "description":"The offical Fosscord instance",
         "official":true
     },
+        "name": "mugman's Fosscord Instance",
+        "url":"http://199.241.139.181:3001",
+        "description": "The Fosscord instance run by mugman, for chatting, coding, and more."
+    },
     {
         "name": "Stilic on Fosscord",
         "url": "https://fosscord.stilic.ynh.fr",

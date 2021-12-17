@@ -64,5 +64,10 @@
 		"name": "LinuxOS - FR",
 		"url": "https://fosscord.ynh.ovh",
 		"description": "My FossCord Instance"
-	}
+	},
+	{
+		"name": "Natsukicord",
+		"url": "https://gdsrv.toska.cloud",
+		"description": "Heavily edited Fosscord instance. See you there!"
+	},
 ]

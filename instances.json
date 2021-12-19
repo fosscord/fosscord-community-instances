@@ -67,7 +67,7 @@
 	},
 	{
 		"name": "Natsukicord",
-		"url": "https://gdsrv.toska.cloud:3001",
+		"url": "http://gdsrv.toska.cloud:3001",
 		"description": "Heavily edited Fosscord instance. See you there!"
 	}
 ]

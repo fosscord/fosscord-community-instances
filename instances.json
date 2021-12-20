@@ -69,5 +69,11 @@
 		"name": "Natsukicord",
 		"url": "https://fosscord.toska.cloud",
 		"description": "Heavily edited Fosscord instance. See you there!"
+	},
+	{
+		"name": "Funcord",
+		"url": "https://funcord.realmani.ir",
+		"description": "Nice and chill Instance to hangout!",
+		"image": "https://cdn.discordapp.com/icons/922468077109661717/409ff3baea617ed2c7fd310563f1296b.webp"
 	}
 ]

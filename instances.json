@@ -6,22 +6,6 @@
 		"official": true
 	},
 	{
-		"name": "Stilic on Fosscord",
-		"url": "https://fosscord.stilic.ynh.fr",
-		"description": "The official instance of Stilic",
-		"image": "https://github.com/stilic.png"
-	},
-	{
-		"name": "BanTheNons",
-		"url": "https://discord.banthenons.com",
-		"description": "Instance of BanTheNons"
-	},
-	{
-		"name": "FuflyPaladium",
-		"url": "http://discord.fufly.xyz",
-		"description": "Instance of FuflyPaladium"
-	},
-	{
 		"name": "TheArcaneBrony",
 		"url": "https://fosscord.thearcanebrony.net",
 		"description": "Instance of TheArcaneBrony",
@@ -34,17 +18,6 @@
 	        "image": "https://i.imgur.com/3D7vVmW.jpg"
 	},
 	{
-		"name": "Rednd's Fosscord Instance",
-		"url": "https://fosscord.anonchan.tk",
-		"description": "An Official Instance of Rednd",
-		"image": "https://github.com/Rednd.png"
-	},
-	{
-		"name": "DairyWeb3638077's Fosscord",
-		"url": "http://nighthowler.tk",
-		"description": "Instance of DairyWeb3638077"
-	},
-	{
 		"name": "Nostalgicord",
 		"url": "https://fc.nostalgicord.featyre.xyz",
 		"description": "Nostalgicord's official Fosscord instance",
@@ -54,11 +27,6 @@
 		"name": "Aru Moon's instance",
 		"url": "https://cord.arumoon.ru",
 		"description": "Just a Fosscord instance"
-	},
-	{
-		"name": "Denisbg2011game's instance",
-		"url": "https://denisfosscord.run-eu-central1.goorm.io",
-		"description": "My FossCord Instance"
 	},
 	{
 		"name": "LinuxOS - FR",

@@ -12,12 +12,6 @@
 		"image": "https://github.com/TheArcaneBrony.png"
 	},
 	{
-		"name": "The DozenCord",
-		"url": "https://dozen-cord.app.vtxhub.com/",
-		"description": "Bored of that Laggy Not fun discord? Try better DozenCord right now! It's better,faster and selfhosted! NOTE: still in beta and will be improved! and domain coming soon!",
-	        "image": "https://i.imgur.com/3D7vVmW.jpg"
-	},
-	{
 		"name": "Nostalgicord",
 		"url": "https://fc.nostalgicord.featyre.xyz",
 		"description": "Nostalgicord's official Fosscord instance",
@@ -40,7 +34,7 @@
 	},
 	{
 		"name": "Funcord",
-		"url": "https://funcord.realmani.ir",
+		"url": "https://client.freecord.ir",
 		"description": "Nice and chill Instance to hangout!",
 		"image": "https://media.discordapp.net/attachments/922468079387148380/922516736706752542/logooo.png?width=412&height=412"
 	}

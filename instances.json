@@ -23,14 +23,9 @@
 		"description": "My FossCord Instance"
 	},
 	{
-		"name": "Natsukicord",
-		"url": "https://fosscord.toska.cloud",
-		"description": "Heavily edited Fosscord instance. See you there!"
-	},
-	{
-		"name": "Funcord",
+		"name": "Freecord",
 		"url": "https://app.freecord.ir",
-		"description": "Nice and chill Instance to hangout!",
+		"description": "24/7 Maintained instance! Friendly user base and a chill place for communities to hangout!",
 		"image": "https://media.discordapp.net/attachments/922468079387148380/922516736706752542/logooo.png?width=412&height=412"
 	}
 ]

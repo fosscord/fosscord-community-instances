@@ -12,12 +12,6 @@
 		"image": "https://github.com/TheArcaneBrony.png"
 	},
 	{
-		"name": "Nostalgicord",
-		"url": "https://fc.nostalgicord.featyre.xyz",
-		"description": "Nostalgicord's official Fosscord instance",
-		"image": "https://github.com/Nostalgicord.png"
-	},
-	{
 		"name": "LinuxOS - FR",
 		"url": "https://fosscord.ynh.ovh",
 		"description": "My FossCord Instance"

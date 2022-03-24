@@ -27,5 +27,12 @@
 		"url": "https://app.freecord.ir",
 		"description": "24/7 Maintained instance! Friendly user base and a chill place for communities to hangout!",
 		"image": "https://media.discordapp.net/attachments/922468079387148380/922516736706752542/logooo.png?width=412&height=412"
+	},
+	
+		{
+		"name": "xprime",
+		"url": "https://app.xprime.lkgroup.xyz",
+		"description": "good communication powered by lkgroup.xyz",
+		"image": "https://cdn.webshopapp.com/shops/94414/files/52440074/flag-of-ukraine.jpg"
 	}
 ]
